@@ -20,3 +20,10 @@ npm install
 npm start
 ```
 **Access the Application:** Once the application is running, access it through your web browser at the specified address (e.g., http://localhost:5173/).
+
+## Application UI
+![Application UI](./public/screenshot-assets/landscape.png)
+<img 
+  src="./public/screenshot-assets/mobileView.png" 
+  alt="mobile responsive UI" 
+  width="400px" />
