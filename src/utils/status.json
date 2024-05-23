@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "trips": "Orders",
+      "total": 123456,
+      "status": {
+        "upcoming": 10, 
+        "ongoing": 12, 
+        "completed": 4
+      }
+    },
+    {
+      "trips": "Trips",
+      "total": 123456,
+      "status": {
+        "upcoming": 3, 
+        "ongoing": 1, 
+        "completed": 2
+      }
+    },
+    {
+      "trips": "Revenue",
+      "total": 123456,
+      "status": {
+        "upcoming": 10, 
+        "ongoing": 12, 
+        "completed": 4
+      }
+    },
+    {
+      "trips": "Expenses",
+      "total": 123456,
+      "status": {
+        "upcoming": 6, 
+        "ongoing": 12, 
+        "completed": 14
+      }
+    }
+  ]
+}
